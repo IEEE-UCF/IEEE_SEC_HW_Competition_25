@@ -1,4 +1,4 @@
-# IEEE UCF SoutheastCon 2024 Hardware Competition Entry Documentation
+# IEEE UCF SoutheastCon 2025 Hardware Competition Entry Documentation
 
 ## Package Partitioning:
 ### secbot_description
